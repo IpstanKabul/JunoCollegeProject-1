@@ -109,12 +109,11 @@ nav a{
 .destinationsSection{
     color: #EBEFF1;
     background-image: url("./assets/image2.jpg");
-    background-position: 50% 56%;
+    background-size: auto, 60% ;
+    background-position: 50% 58%;
     background-repeat: no-repeat;
-    background-size: cover;
-    align-items: center;
     min-height: 375px;
-    padding-top: 5%;
+    padding-top: 55px;
 }
 .centeredBlockText{
     text-align: center;
