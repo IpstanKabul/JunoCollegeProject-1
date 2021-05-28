@@ -157,9 +157,11 @@ nav a{
 .card{
     display: flex;
     flex-direction: column;
-    padding: 8px;
+    margin: 8px;
     flex-basis: 0;
     flex-grow: 1;
+    background-color: #EBEFF1;
+
 }
 .latestFrame{
     max-height: 75%;
@@ -172,7 +174,6 @@ nav a{
     display: flex;
     flex-direction: column;
     justify-content: start;
-    background-color: #EBEFF1;
     flex-basis: 25%;
 }
 .darkGrey{
